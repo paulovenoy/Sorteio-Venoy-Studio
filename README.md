@@ -1,4 +1,4 @@
-# Sorteio Websocket - Código Fonte TV
+# Sorteio Websocket
 
 Uma aplicação simples de sorteio em tempo real utilizando WebSockets, desenvolvida para a o canal Código Fonte TV no YouTube.
 
