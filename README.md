@@ -1,6 +1,6 @@
-# Sorteio Websocket
+# venoyGiveway
 
-Uma aplicação simples de sorteio em tempo real utilizando WebSockets, desenvolvida para a o canal Código Fonte TV no YouTube.
+Uma aplicação simples de sorteio em tempo real utilizando WebSockets, desenvolvida pela Venoy Studio.
 
 ## Descrição
 
@@ -26,8 +26,8 @@ Esta aplicação consiste em duas partes principais:
 1.**Clonar o Repositório**
 
 ```bash
-git clone https://github.com/gabrielfroes/sorteio-websocket
-cd sorteio-websocket
+git clone https://github.com/paulovenoy/venoyGiveway
+cd venoyGiveway
 ```
 
 2.**Instalar dependências**
